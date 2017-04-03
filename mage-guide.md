@@ -5,6 +5,10 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * Neck: [\[Tempest Talisman\]](http://db.vanillagaming.org/?item=18317)
     * Shoulders: [\[Boreal Mantle\]](http://db.vanillagaming.org/?item=11782)
     * Chest: [\[Robe of the Archmage\]](http://db.vanillagaming.org/?item=14152), [\[Freezing Lich Robes\]](http://db.vanillagaming.org/?item=14340), or [\[Robe of Winter Night\]](http://db.vanillagaming.org/?item=14136)
+    * Wrist: [\[Sublime Wristguards\]](http://db.vanillagaming.org/?item=18497)
+    * Hands: [\[Gloves of Spell Mastery\]](http://db.vanillagaming.org/?item=14146), [\[Hands of Power\]](http://db.vanillagaming.org/?item=13253), or [\[Knight-Lieutenant's Silk Gloves\]](http://db.vanillagaming.org/?item=16391)
+    * Waist: [\[Clutch of Andros\]](http://db.vanillagaming.org/?item=13956) or [\[Belt of the Archmage\]](http://db.vanillagaming.org/?item=18405)
+    * Feet: [\[Riptide Shoes\]](http://db.vanillagaming.org/?item=18307) or [\[Knight-Lieutenant's Silk Boots\]](http://db.vanillagaming.org/?item=16369)
   * Consumbables
   * Know the fights
      * Onyxia's Lair
