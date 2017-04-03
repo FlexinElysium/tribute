@@ -30,7 +30,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * **[\[Runn Tum Tuber Surprise\]](http://db.vanillagaming.org/?item=18254)**:  This is the best food for mages and relatively easy to obtain.
     * **[\[Greater Fire Protection Potion\]](http://db.vanillagaming.org/?item=13457)**:  We need these for Ragnaros only.
   * General raiding
-     * Be on time!  We raid at 20:30 PST, 3:30 server time.
+     * Be on time!  We raid at 18:30 PST, 3:30 server time.
      * Warlocks, Priests, Hunters, Warlocks, Druids, and Paladins are all entitled to be buffed with **[Arcane Intellect]** or **[Arcane Brilliance]** at all times.  Each mage will be assigned to a class or two.  It will be your job to make sure that everyone you have been assigned to is properly buffed.  When someone is resurrected or joins late - buff them.
      *  Be alert as alert for trash as you are for the other bosses on farm.  We never wiped on Golemagg and we have wiped on trash dozens of times.  So Golgemagg is actually **less** important than trash is in terms of how much attention is requires from you.
   * Know the fights
