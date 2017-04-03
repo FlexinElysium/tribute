@@ -51,7 +51,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
      * **Majordomo Executus**
        * You'll very likely be assigned a **Flamewaker Healer** to polymorph.  Your top priority is to keep the healer polymorphed until it has been marked to be killed.  Use **[Detect Magic]** to ensure that **[Magic Reflection]** is not active.  Use **[Frost Ward]** to mitigate damage when **[Magic Reflection]** becomes active while your frostbolt is in the air.
      * **Ragnaros**
-       * Find a nice spot by yourself or to share with another ranged damage dealer.  Don't let anyone else be within 25 yards of you.  We want to prevent too many people from being affected by his ranged knockback.  If you find yourself flying through the air use **[Blink]** to land quickly and reset your position.  Use **[Fire Ward]** to mitigate damage.  When he submerges let the tanks collect **Son of Flame** spawns before you use **[Blizzard]** and **[Frostbolt]** to kill them.  Don't let them near you.
-  
-
+       * Find a nice spot by yourself or to share with another ranged damage dealer.  Don't let anyone else be within 25 yards of you.  We want to prevent too many people from being affected by his ranged knockback.
+       * Main Phase:  Nuke Ragnaros as hard as you can. If you find yourself flying through the air use **[Blink]** to land quickly and reset your position.  Use **[Fire Ward]** to mitigate damage.
+       * Sons Phase:  After 3 minutes Ragnaros will submerge and several **Son of Flame** spawns will appear.  Let the tanks collect **Son of Flame** spawns before you use **[Blizzard]** and **[Frostbolt]** to kill them. Ideally we kill all but one, then kill the last just as Ragnaros reappears 90 seconds after he submerges.  Don't kill the last son too soon or Ragnaros will reemerge sooner.
 
