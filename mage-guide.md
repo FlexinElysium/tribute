@@ -1,6 +1,6 @@
 Our current goal is to get our Onyxia and Molten Core clears as efficient as possible.  We want to 1-shot Onyxia every time and clear MC in 90 minutes.  These are the things you can do to help:
 
-  * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  The following is written specifically for patch 1.3 as it exists on Elysium:
+  * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  The following is written specifically for patch 1.3 as it exists on Elysium.
     * Head:
       * **[\[Dragonskin Cowl\]](http://db.vanillagaming.org/?item=22225)** or **[\[Cap of the Scarlet Savant\]](http://db.vanillagaming.org/?item=12752)**
       * Enchant: **[\[Arcanum of Focus\]](http://db.vanillagaming.org/?item=18330)**
@@ -20,6 +20,9 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * Weapon: **[\[Rod of the Ogre Magi\]](http://db.vanillagaming.org/?item=18534)**
       * Enchant: **[\[Major Intellect\]](http://db.vanillagaming.org/?spell=20084)**
     * Wand: **[\[Freezing Shard\]](http://db.vanillagaming.org/?item=10572)**, **[\[Bonekreeper Stylus\]](http://db.vanillagaming.org/?item=18534)**, or **[\[Icefury Wand\]](http://db.vanillagaming.org/?item=7514)**
+
+ (note: the statistics from the vanillagaming website are from patch 1.4.  Elysium is currently on patch 1.3 so the stats for the items are different. You can see the current stats by deleting your "wdb" folder in your warcraft installation.)
+
   * Consumbables
     * **[\[Greater Arcane Elixir\]](http://db.vanillagaming.org/?item=13454)**:  This is fairly easy to obtain and you should always have one ready for bosses that aren't on farm.
     * **[\[Flask of Supreme Power\]](http://db.vanillagaming.org/?item=13512)**:  This is very expensive (more than 100 gold).  You're going beyond the call of duty if you bring one of these to the raid but we'll all appreciate it.  Be sure to save it for when you know we will be getting at least a few attempts in on a boss that isn't on farm.
