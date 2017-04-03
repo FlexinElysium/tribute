@@ -33,13 +33,25 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
        * Phase 3: Hit Onyxia as hard as you can.  Use **[Fire Ward]** to mitigate damage.
      * **Lucifron**
        * Our primary job on this fight is to cleanse **[\[Lucifron's Curse\]](http://db.vanillagaming.org/?spell=19703)**. Healers get priority. Feel free to do damage when no one has the curse.
+     * **Magmadar**
+       * Kill him quick.  If you have 2/2 **[Arctic Reach]** then you can outrange his fear.  Get the fuck away from **[Magma Spit]** and use **[Fire Ward]** to mitigate damage. 
      * **Gehennas**
        * Our primary job on this fight is to cleanse **[\[Gehennas' Curse\]](http://db.vanillagaming.org/?spell=19716)**.  People with low health get priority.  Feel free to do damage when no one has the curse.  Be sure to blink out of **[Rain of Fire]** and use **[Fire Ward]** to mitigate damage.
- 
-    
-      * Magmagdar
-      * Gahenes
-      * 
-
+     * **Garr**
+       * If possible give **[Amplify Magic]** to everyone in the raid before the pull.  This will hopefully allow more important buffs to last longer.
+       * We kill the adds one by one and then kill Garr.  Make sure the adds are at the kill spot before they die.
+     * **Baron Geddon**
+       * Nuke the boss and get the fuck away from everyone else when you receive **[Living Bomb\]**.
+     * **Shazzrah**
+       * Our primary job on this fight is to cleanse **[\[Shazzrah's Curse\]](http://db.vanillagaming.org/?spell=19713)**.  Feel free to do damage when no one has the curse.  Get the fuck away from Shazzrah if he is near you.
+     * **Sulfuron Harbinger**
+       * Just nuke his adds and then him.  Maybe **[Counterspell]** the healers if the rogues aren't doing their job.
+     * **Golemagg the Incinerator**
+       * Just spam **[Frostbolt]**.  He's a target dummy to us.  Save **[Arcane Power]** for 10% since that's when he enrages.  If you are the target of **[Pyroblast]** use **[Fire Ward]** to mitigate damage.
+     * **Majordomo Executus**
+       * You'll very likely be assigned a **Flamewaker Healer** to polymorph.  Your top priority is to keep the healer polymorphed until it has been marked to be killed.  Use **[Detect Magic]** to ensure that **[Magic Reflection]** is not active.  Use **[Frost Ward]** to mitigate damage when **[Magic Reflection]** becomes active while your frostbolt is in the air.
+     * **Ragnaros**
+       * Find a nice spot by yourself or to share with another ranged damage dealer.  Don't let anyone else be within 25 yards of you.  We want to prevent too many people from being affected by his ranged knockback.  If you find yourself flying through the air use **[Blink]** to land quickly and reset your position.  Use **[Fire Ward]** to mitigate damage.  When he submerges let the tanks collect **Son of Flame** spawns before you use **[Blizzard]** and **[Frostbolt]** to kill them.  Don't let them near you.
+  
 
 
