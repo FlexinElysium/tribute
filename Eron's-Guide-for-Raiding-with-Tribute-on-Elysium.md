@@ -1,5 +1,6 @@
 Our current goal is to get our Onyxia and Molten Core clears as efficient as possible.  We want to 1-shot Onyxia every time and clear MC in 90 minutes.  These are the things you can do to help:
 
+  * Be on time!  We raid at 18:30 PST (3:30 server time).
   * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  You will find that many of these items remain with you for months so they are well worth the effort to obtain.  The following is written specifically for patch 1.3 as it exists on Elysium.
     * Head:
       * **[\[Dragonskin Cowl\]](http://db.vanillagaming.org/?item=22225)** or **[\[Cap of the Scarlet Savant\]](http://db.vanillagaming.org/?item=12752)**
@@ -32,7 +33,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * **[\[Runn Tum Tuber Surprise\]](http://db.vanillagaming.org/?item=18254)**:  This is the best food for mages and relatively easy to obtain.
     * **[\[Greater Fire Protection Potion\]](http://db.vanillagaming.org/?item=13457)**:  We need these for Ragnaros only.
   * General raiding
-     * Be on time!  We raid at 18:30 PST, 3:30 server time.
+     * Be on time!  We raid at 18:30 PST (3:30 server time).
      * Warlocks, Priests, Hunters, Warlocks, Druids, and Paladins are all entitled to be buffed with **[Arcane Intellect]** or **[Arcane Brilliance]** at all times.  Each mage will be assigned to a class or two.  It will be your job to make sure that everyone you have been assigned to is properly buffed.  When someone is resurrected or joins late - buff them.
      *  Be alert as alert for trash as you are for the other bosses on farm.  We never wiped on Golemagg and we have wiped on trash dozens of times.  So Golgemagg is actually **less** important than trash is in terms of how much attention is requires from you.
   * Know the fights
