@@ -2,7 +2,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
 
   * Be on time!  We raid at 18:30 PST (3:30 server time).
   * Kill stuff fast.  We are mages - our primary job is to make things die quickly.
-  * Have a decent spec for raiding.  **[Improved Frostbolt]**, **[Elemental Precision]**, and **[Ice Shards]** are all pretty much required.  This is the best damage spec for raiding right now:  http://db.vanillagaming.org/?talent#of0EbocquZVA0c0r.  We will also need to make sure to always have at least one mage with **[Winter's Chill]**
+  * Have a decent spec for raiding.  **[Improved Frostbolt]**, **[Elemental Precision]**, and **[Ice Shards]** are all pretty much required.  This is the best damage spec for raiding right now:  http://db.vanillagaming.org/?talent#of0EbocquZVA0c0r.  We will also need to make sure to always have at least one mage with **[Winter's Chill]**.
   * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  You will find that many of these items remain with you for months so they are well worth the effort to obtain.  The following is written specifically for patch 1.3 as it exists on Elysium.
     * Head: **[\[Dragonskin Cowl\]](http://db.vanillagaming.org/?item=22225)** or **[\[Cap of the Scarlet Savant\]](http://db.vanillagaming.org/?item=12752)**
       * Enchant: **[\[Arcanum of Focus\]](http://db.vanillagaming.org/?item=18330)**
