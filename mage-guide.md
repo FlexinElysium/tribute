@@ -13,6 +13,8 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
       * Enchant: **[\[Greater Intellect\]](http://db.vanillagaming.org/?spell=20008)**
     * Hands: **[\[Gloves of Spell Mastery\]](http://db.vanillagaming.org/?item=14146)**, **[\[Hands of Power\]](http://db.vanillagaming.org/?item=13253)**, or **[\[Knight-Lieutenant's Silk Gloves\]](http://db.vanillagaming.org/?item=16391)**
     * Waist: **[\[Clutch of Andros\]](http://db.vanillagaming.org/?item=13956)** or **[\[Belt of the Archmage\]](http://db.vanillagaming.org/?item=18405)**
+    * Legs: **[\[Skyshroud Leggings\]](http://db.vanillagaming.org/?item=13170)**
+      * Enchant: **[\[Arcanum of Focus\]](http://db.vanillagaming.org/?item=18330)**
     * Feet: **[\[Riptide Shoes\]](http://db.vanillagaming.org/?item=18307)** or **[\[Knight-Lieutenant's Silk Boots\]](http://db.vanillagaming.org/?item=16369)**
       * Enchant: **[\[Minor Speed\]](http://db.vanillagaming.org/?spell=13890)**
     * Fingers: **[\[Songstone of Ironforge\]](http://db.vanillagaming.org/?item=12543)**, **[\[Maiden's Circle\]](http://db.vanillagaming.org/?item=13001)**, or **[\[Freezing Band\]](http://db.vanillagaming.org/?item=942)**
