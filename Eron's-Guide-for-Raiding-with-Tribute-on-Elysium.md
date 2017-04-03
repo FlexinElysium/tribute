@@ -10,7 +10,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * Shoulders: **[\[Boreal Mantle\]](http://db.vanillagaming.org/?item=11782)**
       * Enchant: **[\[Flame Mantle of the Dawn\]](http://db.vanillagaming.org/?item=18169)**
     * Back: **[\[Amplifying Cloak\]](http://db.vanillagaming.org/?item=18350)**, **[\[Heliotrope Cloak\]](http://db.vanillagaming.org/?item=18496)**, or **[\[Chromatic Cloak\]](http://db.vanillagaming.org/?item=18509)**
-      * Enchant: **[\[Fire Resistance\]](http://db.vanillagaming.org/?spell=13657)
+      * Enchant: **[\[Fire Resistance\]](http://db.vanillagaming.org/?spell=13657)**
     * Chest: **[\[Robe of the Archmage\]](http://db.vanillagaming.org/?item=14152)**, **[\[Freezing Lich Robes\]](http://db.vanillagaming.org/?item=14340)**, or **[\[Robe of Winter Night\]](http://db.vanillagaming.org/?item=14136)**
       * Enchant: **[\[Stats\]](http://db.vanillagaming.org/?spell=13941)** or **[\[Greater Stats\]](http://db.vanillagaming.org/?spell=20025)**
     * Wrist: **[\[Sublime Wristguards\]](http://db.vanillagaming.org/?item=18497)**
