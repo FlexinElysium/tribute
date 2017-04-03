@@ -24,7 +24,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
     * Fingers: **[\[Songstone of Ironforge\]](http://db.vanillagaming.org/?item=12543)**, **[\[Maiden's Circle\]](http://db.vanillagaming.org/?item=13001)**, or **[\[Freezing Band\]](http://db.vanillagaming.org/?item=942)**
     * Trinkets: **[\[Eye of the Beast\]](http://db.vanillagaming.org/?item=13968)** and **[\[Briarwood Reed\]](http://db.vanillagaming.org/?item=12930)**
     * Weapon: **[\[Rod of the Ogre Magi\]](http://db.vanillagaming.org/?item=18534)**
-      * Enchant: **[\[Major Intellect\]](http://db.vanillagaming.org/?spell=20084)**
+      * Enchant: **[\[Major Intellect\]](http://db.vanillagaming.org/?spell=20036)**
     * Wand: **[\[Freezing Shard\]](http://db.vanillagaming.org/?item=10572)**, **[\[Bonecreeper Stylus\]](http://db.vanillagaming.org/?item=13938)**, or **[\[Icefury Wand\]](http://db.vanillagaming.org/?item=7514)**
 
  (note: the statistics from the vanillagaming website are from patch 1.4.  Elysium is currently on patch 1.3 so the stats for the items are different. You can see the current stats by deleting your "wdb" folder in your warcraft installation.)
