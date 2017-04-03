@@ -30,6 +30,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
  (note: the statistics from the vanillagaming website are from patch 1.4.  Elysium is currently on patch 1.3 so the stats for the items are different. You can see the current stats by deleting your "wdb" folder in your warcraft installation.)
 
   * Consumbables
+    * **[\[Greater Mana potion\]](http://db.vanillagaming.org/?item=13444)**:  Use these for long fighs.  Right now Ragnaros is probably the only fight which requires these if you are properly specced.
     * **[\[Greater Arcane Elixir\]](http://db.vanillagaming.org/?item=13454)**:  This is fairly easy to obtain and you should always have one ready for bosses that aren't on farm.
     * **[\[Flask of Supreme Power\]](http://db.vanillagaming.org/?item=13512)**:  This is very expensive (more than 100 gold).  You're going beyond the call of duty if you bring one of these to the raid but we'll all appreciate it.  Be sure to save it for when you know we will be getting at least a few attempts in on a boss that isn't on farm.
     * **[\[Crystal Force\]](http://db.vanillagaming.org/?item=11563)**: This is very easy to obtain and will be worth it for long fights where you run out of mana.
