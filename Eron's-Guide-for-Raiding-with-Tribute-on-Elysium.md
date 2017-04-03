@@ -27,7 +27,7 @@ Our current goal is to get our Onyxia and Molten Core clears as efficient as pos
       * Enchant: **[\[Major Intellect\]](http://db.vanillagaming.org/?spell=20036)**
     * Wand: **[\[Freezing Shard\]](http://db.vanillagaming.org/?item=10572)**, **[\[Bonecreeper Stylus\]](http://db.vanillagaming.org/?item=13938)**, or **[\[Icefury Wand\]](http://db.vanillagaming.org/?item=7514)**
 
- (note: the statistics from the vanillagaming website are from patch 1.4.  Elysium is currently on patch 1.3 so the stats for the items are different. You can see the current stats by deleting your "wdb" folder in your warcraft installation.)
+ (note: the statistics from the vanillagaming website are from patch 1.4.  Elysium is currently on patch 1.3 so the stats for the items are different. You can see the current stats in game by deleting your "wdb" folder in your warcraft installation.)
 
   * Consumbables
     * **[\[Greater Mana potion\]](http://db.vanillagaming.org/?item=13444)**:  Use these for long fights.  Right now Ragnaros is probably the only fight which requires these if you are properly specced.
