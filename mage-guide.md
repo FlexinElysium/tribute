@@ -1,6 +1,6 @@
 Our current goal is to get our Onyxia and Molten Core clears as efficient as possible.  We want to 1-shot Onyxia every time and clear MC in 90 minutes.  These are the things you can do to help:
 
-  * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  The following is written specifically for patch 1.3 as it exists on Elysium.
+  * Get your pre-raid best in slot gear.  There's a huge difference in damage output between a mage just hitting 60 and a mage who has spent the time to obtain the best items for each slot.  You will find that many of these items remain with you for months so they are well worth the effort to obtain.  The following is written specifically for patch 1.3 as it exists on Elysium.
     * Head:
       * **[\[Dragonskin Cowl\]](http://db.vanillagaming.org/?item=22225)** or **[\[Cap of the Scarlet Savant\]](http://db.vanillagaming.org/?item=12752)**
       * Enchant: **[\[Arcanum of Focus\]](http://db.vanillagaming.org/?item=18330)**
